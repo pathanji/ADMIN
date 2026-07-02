@@ -1,0 +1,69 @@
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+.history/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settingings/
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+packages/
+pubspec.lock
+
+# Build
+build/
+dist/
+.gradle/
+.android/
+.ios/
+.web/
+.dart_tool/
+*.apk
+*.aab
+*.ipa
+*.app
+
+# Generated files
+*.g.dart
+*.pb.dart
+*.config.dart
+
+# Firebase
+.firebaserc
+firebase-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary
+tmp/
+temp/
+*.tmp
